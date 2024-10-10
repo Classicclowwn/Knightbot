@@ -1,11 +1,11 @@
 const settings = {
-  packname: 'My Sticker Pack',
+  packname: 'My clownic Pack',
   author: 'My Bot',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  botName: "Classicclown Bot",
+  botOwner: 'Classicclown', // Your name
+  ownerNumber: '2348163243259', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "private",
   description: "This is a bot for managing group commands and automating tasks.",
   version: "1.0.0",
 };
